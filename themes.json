@@ -7,7 +7,7 @@
         "tr": "Taşıtlar",
         "en": "Vehicles"
       },
-      "image_count": 50,
+      "image_count": 144,
       "emoji": "🚗",
       "icon_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/assets/vehicles/icon_000.png",
       "base_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/assets/vehicles/",
@@ -20,7 +20,7 @@
         "tr": "Eşyalar",
         "en": "Items"
       },
-      "image_count": 50,
+      "image_count": 56,
       "emoji": "🎁",
       "icon_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/assets/items/icon_000.png",
       "base_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/assets/items/",
@@ -33,7 +33,7 @@
         "tr": "Yiyecekler",
         "en": "Foods"
       },
-      "image_count": 36,
+      "image_count": 84,
       "emoji": "🍔",
       "icon_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/assets/foods/icon_000.png",
       "base_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/assets/foods/",
