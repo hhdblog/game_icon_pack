@@ -2,7 +2,7 @@
   "themes": [
     {
       "id": "tasitlar",
-      "enabled": false,
+      "enabled": true,
       "name": {
         "tr": "Taşıtlar",
         "en": "Vehicles"
