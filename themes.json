@@ -20,7 +20,7 @@
         "tr": "Hayvanlar",
         "en": "Animals"
       },
-      "image_count": 84,
+      "image_count": 66,
       "emoji": "🦁",
       "icon_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/assets/animals/icon_000.png",
       "base_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/assets/animals/",
@@ -33,7 +33,7 @@
         "tr": "Taşıtlar",
         "en": "Vehicles"
       },
-      "image_count": 70,
+      "image_count": 71,
       "emoji": "🚗",
       "icon_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/assets/vehicles/icon_000.png",
       "base_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/assets/vehicles/",
