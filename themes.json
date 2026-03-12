@@ -1,6 +1,19 @@
 {
   "themes": [
     {
+      "id": "fruitsvevegetables",
+      "enabled": true,
+      "name": {
+        "tr": "Meyveler ve Sebzeler",
+        "en": "Fruits and Vegetables"
+      },
+      "image_count": 64,
+      "emoji": "🍎",
+      "icon_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/assets/fruitsvegetables/icon_000.png",
+      "base_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/assets/fruitsvegetables/",
+      "package_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/packages/fruitsvegetables.zip"
+    },
+    {
       "id": "animals",
       "enabled": true,
       "name": {
