@@ -77,32 +77,6 @@
       "icon_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/assets/items/icon_000.png",
       "base_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/assets/items/",
       "package_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/packages/items.zip"
-    },
-    {
-      "id": "foods",
-      "enabled": true,
-      "name": {
-        "tr": "Yiyecekler",
-        "en": "Foods"
-      },
-      "image_count": 84,
-      "emoji": "🍔",
-      "icon_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/assets/foods/icon_000.png",
-      "base_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/assets/foods/",
-      "package_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/packages/foods.zip"
-    },
-    {
-      "id": "sports",
-      "enabled": true,
-      "name": {
-        "tr": "Sporlar",
-        "en": "Sports"
-      },
-      "image_count": 64,
-      "emoji": "⚽",
-      "icon_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/assets/sports/icon_000.png",
-      "base_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/assets/sports/",
-      "package_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/packages/sports.zip"
     }
   ]
 }
