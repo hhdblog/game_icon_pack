@@ -103,6 +103,19 @@
       "icon_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/assets/fantasy/icon_000.png",
       "base_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/assets/fantasy/",
       "package_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/packages/fantasy.zip"
+    },
+    {
+      "id": "plants",
+      "enabled": true,
+      "name": {
+        "tr": "Bitkiler",
+        "en": "Plants"
+      },
+      "image_count": 70,
+      "emoji": "🌱",
+      "icon_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/assets/plants/icon_000.png",
+      "base_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/assets/plants/",
+      "package_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/packages/plants.zip"
     }
   ]
 }
