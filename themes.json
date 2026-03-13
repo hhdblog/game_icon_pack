@@ -77,6 +77,19 @@
       "icon_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/assets/items/icon_000.png",
       "base_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/assets/items/",
       "package_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/packages/items.zip"
+    },
+    {
+      "id": "toys",
+      "enabled": true,
+      "name": {
+        "tr": "Oyuncaklar",
+        "en": "Toys"
+      },
+      "image_count": 72,
+      "emoji": "🧸",
+      "icon_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/assets/toys/icon_000.png",
+      "base_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/assets/toys/",
+      "package_url": "https://raw.githubusercontent.com/hhdblog/game_icon_pack/refs/heads/main/packages/toys.zip"
     }
   ]
 }
